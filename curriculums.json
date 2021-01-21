@@ -1,0 +1,44 @@
+[
+    {
+        "id": "introduction-to-web",
+        "title": "Web開発入門",
+        "description": "WebページやWebアプリを開発するための最初の一歩です。",
+        "courses": [
+            "introduction-to-html",
+            "firststep-to-css",
+            "firststep-to-javascript",
+            "server-side"
+        ]
+    },
+    {
+        "id": "javascript",
+        "title": "JavaScript",
+        "description": "JavaScriptの本格的な勉強、Node.jsを使ったサーバ側の開発、Webpackによるモジュールのコンパイル。",
+        "courses": [
+            "introduction-to-nodejs",
+            "the-modern-javascript-tutorial",
+            "introduction-to-webpack"
+        ]
+    },
+    {
+        "id": "vue",
+        "title": "Vue.js",
+        "description": "ユーザーインターフェイスを構築するためのプログレッシブフレームワーク。",
+        "courses": [
+            "vue",
+            "vue-loader",
+            "vue-cli",
+            "vuex",
+            "vue-router",
+            "vue-ssr"
+        ]
+    },
+    {
+        "id": "introduction-to-swift",
+        "title": "Swift入門",
+        "description": "Swiftへの第一歩。",
+        "courses": [
+            "swift-guide"
+        ]
+    }
+]
