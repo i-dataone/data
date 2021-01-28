@@ -7,7 +7,8 @@
             "introduction-to-html",
             "firststep-to-css",
             "firststep-to-javascript",
-            "server-side"
+            "server-side",
+            "Chrome DevTools"
         ]
     },
     {
@@ -18,6 +19,16 @@
             "introduction-to-nodejs",
             "the-modern-javascript-tutorial",
             "introduction-to-webpack"
+        ]
+    },
+    {
+        "id": "python",
+        "title": "Python",
+        "description": "pythonの基礎からフレームワークまで。",
+        "courses": [
+            "python-tutorial",
+            "PLavQwENTsEBUHi7XZHGfKjTQQdOvnYPmB",
+            "django-tutorial"
         ]
     },
     {
@@ -34,11 +45,44 @@
         ]
     },
     {
+        "id": "php",
+        "title": "PHP",
+        "description": "phpの基礎,フレームワークを学習してWebアプリの開発をしましょう",
+        "courses": [
+            "php-manual",
+            "PLavQwENTsEBVcfSLcGHNvDOvE2iUWpviO",
+            "introduction-to-laravel",
+            "PLCyDm9NTxdhLnA4tH5ToQR1K1LcWIAdOa"
+        ]
+    },
+    {
+        "id": "ruby",
+        "title": "Ruby",
+        "description": "rubyの基礎,フレームワークを学習してWebアプリの開発をしましょう",
+        "courses": [
+            "introduction-to-ruby",
+            "PLLtm0VpE-z3NMFXMaLW6NqSVHqLLLAIRi",
+            "iintroduction-to-rails",
+            "PLLtm0VpE-z3OBQzV1zwdZvm7bicjvwZIy"
+        ]
+    },
+    {
         "id": "introduction-to-swift",
         "title": "Swift入門",
         "description": "Swiftへの第一歩。",
         "courses": [
-            "swift-guide"
+            "swift-guide",
+            "PL3nfHFjHVxFaf5EuHUXRMjT_DwPFH2-21"
+        ]
+    },
+    {
+        "id": "unity",
+        "title": "Unity",
+        "description": "Unityを学び、2D・3Dゲーム作成をしましょう",
+        "courses": [
+            "PLED8667EEZ9aB72WVMHfRHBd6oj9vplRy",
+            "PLX2vGYjWbI0RstjgJgWjYQ6ysmjDdoJWm",
+            "PLX2vGYjWbI0RsEKOY7hvYYg3lU8sQJZ7S"
         ]
     }
 ]
