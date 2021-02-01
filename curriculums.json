@@ -32,6 +32,15 @@
         ]
     },
     {
+        "id": "python-development",
+        "title": "Python応用",
+        "description": "python機械学習の基礎処理を学びましょう。",
+        "courses": [
+            "introduction-to-numpy",
+            "introduction-to-pandas"
+        ]
+    },
+    {
         "id": "vue",
         "title": "Vue.js",
         "description": "ユーザーインターフェイスを構築するためのプログレッシブフレームワーク。",
@@ -62,7 +71,7 @@
         "courses": [
             "introduction-to-ruby",
             "PLLtm0VpE-z3NMFXMaLW6NqSVHqLLLAIRi",
-            "iintroduction-to-rails",
+            "introduction-to-rails",
             "PLLtm0VpE-z3OBQzV1zwdZvm7bicjvwZIy"
         ]
     },
@@ -83,6 +92,16 @@
             "PLED8667EEZ9aB72WVMHfRHBd6oj9vplRy",
             "PLX2vGYjWbI0RstjgJgWjYQ6ysmjDdoJWm",
             "PLX2vGYjWbI0RsEKOY7hvYYg3lU8sQJZ7S"
+        ]
+    },
+    {
+        "id": "git",
+        "title": "Git",
+        "description": "Githubを利用して、チームでコードを共有しよう",
+        "courses": [
+            "git-documentation",
+            "git-introduction",
+            "git-development"
         ]
     }
 ]
