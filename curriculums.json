@@ -99,9 +99,9 @@
         "title": "Git",
         "description": "Githubを利用して、チームでコードを共有しよう",
         "courses": [
-            "git-documentation",
-            "git-introduction",
-            "git-development"
+            "git-saru-introduction",
+            "git-saru-hatten",
+            "git-saru-pullrequest"
         ]
     }
 ]
