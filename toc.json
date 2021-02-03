@@ -1,6 +1,6 @@
 [
   {
-    "id": "Web開発",
+    "id": "Web基礎",
     "courses": [
       {
         "type": "WebPages",
@@ -55,6 +55,48 @@
           "https://developer.mozilla.org/ja/docs/Learn/CSS/First_steps/Using_your_new_knowledge"
         ]
       },
+      {
+        "type": "YouTubePlayList",
+        "title": "はじめてのCSS入門講座",
+        "author": "TechAcademy",
+        "description": "動画で学ぶCSS入門。",
+        "id": "PLjw-30bsJNVVa4PuUseJ5YPN1K2dJr041"
+      },
+      {
+        "type": "YouTubePlayList",
+        "title": "はじめてのレスポンシブWebデザイン入門講座",
+        "author": "TechAcademy",
+        "description": "動画で学ぶレスポンシブWebデザイン。",
+        "id": "PLjw-30bsJNVVUTdM-KUqkiVy3uj4fTfLD"
+      },
+      {
+        "type": "YouTubePlayList",
+        "title": "Sassではじめる CSSプリプロセッサー",
+        "description": "動画で学ぶSass。",
+        "author": "たにぐち まことのともすたチャンネル",
+        "id": "PLh6V6_7fbbo-6wW7n8v6APW0Xkhhm1yRk"
+      },
+      {
+        "type": "WebPages",
+        "id": "Chrome DevTools",
+        "title": "Chrome DevTools",
+        "description": "開発者ツールの使い方を学びましょう。",
+        "author": "Google Developers",
+        "articleURLs": [
+          "https://developers.google.com/web/tools/chrome-devtools/open",
+          "https://developers.google.com/web/tools/chrome-devtools/css",
+          "https://developers.google.com/web/tools/chrome-devtools/console",
+          "https://developers.google.com/web/tools/chrome-devtools/network",
+          "https://developers.google.com/web/tools/chrome-devtools/evaluate-performance",
+          "https://developers.google.com/web/tools/chrome-devtools/memory-problems",
+          "https://developers.google.com/web/tools/chrome-devtools/security"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "JavaScript",
+    "courses": [
       {
         "type": "WebPages",
         "id": "firststep-to-javascript",
@@ -269,13 +311,6 @@
       },
       {
         "type": "YouTubePlayList",
-        "title": "はじめてのCSS入門講座",
-        "author": "TechAcademy",
-        "description": "動画で学ぶCSS入門。",
-        "id": "PLjw-30bsJNVVa4PuUseJ5YPN1K2dJr041"
-      },
-      {
-        "type": "YouTubePlayList",
         "title": "基礎から学ぶJavaScript入門",
         "author": "しまぶーのIT大学",
         "description": "動画で学ぶJavaScript。",
@@ -306,13 +341,6 @@
       },
       {
         "type": "YouTubePlayList",
-        "title": "はじめてのレスポンシブWebデザイン入門講座",
-        "author": "TechAcademy",
-        "description": "動画で学ぶレスポンシブWebデザイン。",
-        "id": "PLjw-30bsJNVVUTdM-KUqkiVy3uj4fTfLD"
-      },
-      {
-        "type": "YouTubePlayList",
         "title": "Vue.js入門",
         "description": "動画で学ぶVue.js入門",
         "author": "たにぐち まことのともすたチャンネル",
@@ -324,13 +352,6 @@
         "description": "動画で学ぶReact入門",
         "author": "たにぐち まことのともすたチャンネル",
         "id": "PLh6V6_7fbbo9HNwl5htJOIV48JUgwWQVS"
-      },
-      {
-        "type": "YouTubePlayList",
-        "title": "Sassではじめる CSSプリプロセッサー",
-        "description": "動画で学ぶSass。",
-        "author": "たにぐち まことのともすたチャンネル",
-        "id": "PLh6V6_7fbbo-6wW7n8v6APW0Xkhhm1yRk"
       },
       {
         "type": "WebPages",
@@ -447,22 +468,6 @@
         ]
       },
       {
-        "type": "WebPages",
-        "id": "Chrome DevTools",
-        "title": "Chrome DevTools",
-        "description": "開発者ツールの使い方を学びましょう。",
-        "author": "Google Developers",
-        "articleURLs": [
-          "https://developers.google.com/web/tools/chrome-devtools/open",
-          "https://developers.google.com/web/tools/chrome-devtools/css",
-          "https://developers.google.com/web/tools/chrome-devtools/console",
-          "https://developers.google.com/web/tools/chrome-devtools/network",
-          "https://developers.google.com/web/tools/chrome-devtools/evaluate-performance",
-          "https://developers.google.com/web/tools/chrome-devtools/memory-problems",
-          "https://developers.google.com/web/tools/chrome-devtools/security"
-        ]
-      },
-      {
         "type": "YouTubePlayList",
         "id": "PLkQpCfbvj0lylBox7BYe3qqOVDJgEM005",
         "title": "TypeScript入門講座",
@@ -537,7 +542,6 @@
           "https://angular.jp/guide/event-binding",
           "https://angular.jp/guide/two-way-binding",
           "https://angular.jp/guide/template-reference-variables",
-          "https://angular.jp/guide/inputs-outputs",
           "https://angular.jp/guide/svg-in-templates",
           "https://angular.jp/guide/built-in-directives",
           "https://angular.jp/guide/attribute-directives",
@@ -562,7 +566,6 @@
           "https://jquery-master.net/selectors/",
           "https://jquery-master.net/selectors/context.php",
           "https://jquery-master.net/selectors/hierarchy.php",
-          "http://php.adamharvey.name/manual/ja/language.basic-syntax.php",
           "https://jquery-master.net/selectors/child.php",
           "https://jquery-master.net/selectors/content.php",
           "https://jquery-master.net/selectors/form.php",
@@ -899,104 +902,6 @@
     ]
   },
   {
-    "id": "Perl",
-    "courses": [
-      {
-        "type": "WebPages",
-        "id": "dot-introduction-to-perl",
-        "title": "Perl入門",
-        "description": "テキストのPerl入門。",
-        "author": "DOT",
-        "articleURLs": [
-          "https://i-dataone.github.io/courses/introduction-to-perl/introduction.html",
-          "https://i-dataone.github.io/courses/introduction-to-perl/basics.html",
-          "https://i-dataone.github.io/courses/introduction-to-perl/variable.html",
-          "https://i-dataone.github.io/courses/introduction-to-perl/directory.html",
-          "https://i-dataone.github.io/courses/introduction-to-perl/file.html",
-          "https://i-dataone.github.io/courses/introduction-to-perl/operator.html",
-          "https://i-dataone.github.io/courses/introduction-to-perl/regex.html",
-          "https://i-dataone.github.io/courses/introduction-to-perl/subroutine.html",
-          "https://i-dataone.github.io/courses/introduction-to-perl/time.html"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "Go",
-    "courses": [
-      {
-        "type": "WebPages",
-        "id": "a-tour-of-go",
-        "title": "A Tour of Go",
-        "description": "Goの入門です。",
-        "author": "go-tour-jp",
-        "articleURLs": [
-          "https://go-tour-jp.appspot.com/welcome/1",
-          "https://go-tour-jp.appspot.com/basics/1",
-          "https://go-tour-jp.appspot.com/flowcontrol/1",
-          "https://go-tour-jp.appspot.com/moretypes/1",
-          "https://go-tour-jp.appspot.com/methods/1",
-          "https://go-tour-jp.appspot.com/concurrency/1"
-        ]
-      },
-      {
-        "type": "YouTubePlayList",
-        "title": "【超入門コース】Go言語｜プログラミング初心者向け講座",
-        "id": "PLavQwENTsEBXDV2ATrm_xe0Fju1_D0f_q",
-        "description": "動画で学べるGo入門（全17回）",
-        "author": "キノコード"
-      }
-    ]
-  },
-  {
-    "id": "Swift",
-    "courses": [
-      {
-        "type": "WebPages",
-        "id": "swift-guide",
-        "title": "Swift Language Guide",
-        "description": "Swiftの入門です。",
-        "author": "swift.org",
-        "articleURLs": [
-          "https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/StringsAndCharacters.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Functions.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Closures.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Methods.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Subscripts.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Initialization.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/NestedTypes.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Extensions.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Protocols.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/Generics.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/OpaqueTypes.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/MemorySafety.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/AccessControl.html",
-          "https://docs.swift.org/swift-book/LanguageGuide/AdvancedOperators.html"
-        ]
-      },
-      {
-        "type": "YouTubePlayList",
-        "id": "PL3nfHFjHVxFaf5EuHUXRMjT_DwPFH2-21",
-        "title": "Swift超入門〜初めての方も！",
-        "description": "Swiftで扱う文法を学ぶことができます。",
-        "author": "たけむらしんいち"
-        
-      }
-    ]
-  },
-  {
     "id": "Unity",
     "courses": [
       {
@@ -1046,6 +951,24 @@
       },
       {
         "type": "WebPages",
+        "id": "dot-introduction-to-perl",
+        "title": "Perl入門",
+        "description": "テキストのPerl入門。",
+        "author": "DOT",
+        "articleURLs": [
+          "https://i-dataone.github.io/courses/introduction-to-perl/introduction.html",
+          "https://i-dataone.github.io/courses/introduction-to-perl/basics.html",
+          "https://i-dataone.github.io/courses/introduction-to-perl/variable.html",
+          "https://i-dataone.github.io/courses/introduction-to-perl/directory.html",
+          "https://i-dataone.github.io/courses/introduction-to-perl/file.html",
+          "https://i-dataone.github.io/courses/introduction-to-perl/operator.html",
+          "https://i-dataone.github.io/courses/introduction-to-perl/regex.html",
+          "https://i-dataone.github.io/courses/introduction-to-perl/subroutine.html",
+          "https://i-dataone.github.io/courses/introduction-to-perl/time.html"
+        ]
+      },
+      {
+        "type": "WebPages",
         "id": "introduction-to-rust",
         "title": "Rust入門",
         "description": "Rustの基礎を理解しましょう。",
@@ -1074,6 +997,71 @@
           "https://doc.rust-lang.org/stable/rust-by-example/std_misc.html",
           "https://doc.rust-lang.org/stable/rust-by-example/testing.html"
         ]
+      },
+      {
+        "type": "WebPages",
+        "id": "a-tour-of-go",
+        "title": "A Tour of Go",
+        "description": "Goの入門です。",
+        "author": "go-tour-jp",
+        "articleURLs": [
+          "https://go-tour-jp.appspot.com/welcome/1",
+          "https://go-tour-jp.appspot.com/basics/1",
+          "https://go-tour-jp.appspot.com/flowcontrol/1",
+          "https://go-tour-jp.appspot.com/moretypes/1",
+          "https://go-tour-jp.appspot.com/methods/1",
+          "https://go-tour-jp.appspot.com/concurrency/1"
+        ]
+      },
+      {
+        "type": "YouTubePlayList",
+        "title": "【超入門コース】Go言語｜プログラミング初心者向け講座",
+        "id": "PLavQwENTsEBXDV2ATrm_xe0Fju1_D0f_q",
+        "description": "動画で学べるGo入門（全17回）",
+        "author": "キノコード"
+      },
+      {
+        "type": "WebPages",
+        "id": "swift-guide",
+        "title": "Swift Language Guide",
+        "description": "Swiftの入門です。",
+        "author": "swift.org",
+        "articleURLs": [
+          "https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/StringsAndCharacters.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Functions.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Closures.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Methods.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Subscripts.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Initialization.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/NestedTypes.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Extensions.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Protocols.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/Generics.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/OpaqueTypes.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/MemorySafety.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/AccessControl.html",
+          "https://docs.swift.org/swift-book/LanguageGuide/AdvancedOperators.html"
+        ]
+      },
+      {
+        "type": "YouTubePlayList",
+        "id": "PL3nfHFjHVxFaf5EuHUXRMjT_DwPFH2-21",
+        "title": "Swift超入門〜初めての方も！",
+        "description": "Swiftで扱う文法を学ぶことができます。",
+        "author": "たけむらしんいち"
+        
       },
       {
         "type": "WebPages",
@@ -1197,11 +1185,16 @@
       },
       {
         "type": "YouTubePlayList",
-        "id": "PLhThj1C8DuL1uJUov1bFJX0HEl_uJY-U8",
-        "title": "さくっと合格！基本情報技術者試験(講座編)",
-        "description": "基本情報技術者試験のポイントが動画で勉強できます",
-        "author": "【ITすきま教室】渡辺さき"
-      },
+        "id": "PLXOP1_-wmgsAB9S0cgM2z3DCQTFoetEVB",
+        "title": "SQL入門",
+        "description": "データベース言語です。データベース定義・操作などができるようになります。",
+        "author": "チュートリアル道場"
+      }
+    ]
+  },
+  {
+    "id": "ITリテラシー",
+    "courses": [
       {
         "type": "YouTubePlayList",
         "id": "PL4Fdw7i43-stfib-eXQg4Yy81ewaPmEq3",
@@ -1218,17 +1211,17 @@
       },
       {
         "type": "YouTubePlayList",
-        "id": "PL4VeOQZwYsOiyuKEuWDQI3Q4fHb0xw84r",
-        "title": "学年１位の勉強法 TOP50",
-        "description": "試す価値あり。科学的にも証明されている方法もでてきます",
-        "author": "ブレイクスルー佐々木"
-      },
-      {
-        "type": "YouTubePlayList",
         "id": "PLDOtqUvYPW5F-sYS80mhLq2CjHM1H5Vwy",
         "title": "【IT知識】〜ITパスポート編〜",
         "description": "ITパスポートの知識ををゼロから身に着けられます",
         "author": "yuji.チャンネル"
+      },
+      {
+        "type": "YouTubePlayList",
+        "id": "PLhThj1C8DuL1uJUov1bFJX0HEl_uJY-U8",
+        "title": "さくっと合格！基本情報技術者試験(講座編)",
+        "description": "基本情報技術者試験のポイントが動画で勉強できます",
+        "author": "【ITすきま教室】渡辺さき"
       },
       {
         "type": "WebPages",
@@ -1308,13 +1301,6 @@
       },
       {
         "type": "YouTubePlayList",
-        "id": "PLQl1F1HM6FC4-9P5_d6osNHoSxpk2NTDs",
-        "title": "10分で名著シリーズ",
-        "description": "名著からヒントを得ましょう",
-        "author": "人生を変える学校 Life Changing School"
-      },
-      {
-        "type": "YouTubePlayList",
         "id": "PLbxgCCUH3vOHQ_lvsNekQM1nbj_B7mLlM",
         "title": "問題解決・マネジメント講座",
         "description": "マネジメントについて動画で学べます",
@@ -1326,34 +1312,6 @@
         "title": "マネジメント基本と原則",
         "description": "ドラッカーのマネジメントが学べます",
         "author": "アルファホープスVRS製造現場研修所近藤邦康"
-      },
-      {
-        "type": "YouTubePlayList",
-        "id": "PL-G1RYIsLLcGND_0pMCZLa3LrFXUlDStY",
-        "title": "仕事で使える心理学",
-        "description": "覚えておけば仕事で役立つかもしれません。",
-        "author": "ビジネス心理学チャンネル"
-      },
-      {
-        "type": "YouTubePlayList",
-        "id": "PL6X2UBeXBzDO-AkRHsZrAnyXD6OQPxWKa",
-        "title": "GAFAを作った偉人達",
-        "description": "スティーブジョブズやジェフベゾスなどのお話",
-        "author": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY"
-      },
-      {
-        "type": "YouTubePlayList",
-        "id": "PLH_zSqoO_g_4-JjBNXhSlpsNpFpg-bI68",
-        "title": "暗号資産（基礎知識）",
-        "description": "今や主流になりつつある暗号資産の基礎知識",
-        "author": "COIN CATSチャンネル"
-      },
-      {
-        "type": "YouTubePlayList",
-        "id": "PL4XUsOepp8PkFgKaTKsb0U_iYB5I80Oyp",
-        "title": "暗号資産",
-        "description": "暗号資産の歴史やブロックチェーンについて学べます",
-        "author": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY"
       }
     ]
   },
@@ -1371,7 +1329,7 @@
         "type": "YouTubePlayList",
         "id": "PLD74lMZl_0GbCat39Ph-FX9gee3JNP0lQ",
         "title": "エレベータのブザーは鳴るか―大学生のための統計学入門―",
-        "description": "高校生レベルの統計学について学べます",
+        "description": "高校生レベルの統計学��ついて学べます",
         "author": "Kyoto-U OCW"
       },
       {
@@ -1459,6 +1417,13 @@
       },
       {
         "type": "YouTubePlayList",
+        "id": "PLQl1F1HM6FC4-9P5_d6osNHoSxpk2NTDs",
+        "title": "10分で名著シリーズ",
+        "description": "名著からヒントを得ましょう",
+        "author": "人生を変える学校 Life Changing School"
+      },
+      {
+        "type": "YouTubePlayList",
         "id": "PLvJgUfWjlUOXVGo6M2iHdJFfI-jW5DJoO",
         "title": "相対性理論",
         "description": "相対性理論について学べます",
@@ -1470,6 +1435,41 @@
         "title": "行動経済学",
         "description": "経済学＋心理学。何かを選択する時に役立ちます",
         "author": "レインボーブリッジ英語学院"
+      },
+      {
+        "type": "YouTubePlayList",
+        "id": "PL4VeOQZwYsOiyuKEuWDQI3Q4fHb0xw84r",
+        "title": "学年１位の勉強法 TOP50",
+        "description": "試す価値あり。科学的にも証明されている方法もでてきます",
+        "author": "ブレイクスルー佐々木"
+      },
+      {
+        "type": "YouTubePlayList",
+        "id": "PL-G1RYIsLLcGND_0pMCZLa3LrFXUlDStY",
+        "title": "仕事で使える心理学",
+        "description": "覚えておけば仕事で役立つかもしれません。",
+        "author": "ビジネス心理学チャンネル"
+      },
+      {
+        "type": "YouTubePlayList",
+        "id": "PL6X2UBeXBzDO-AkRHsZrAnyXD6OQPxWKa",
+        "title": "GAFAを作った偉人達",
+        "description": "スティーブジョブズやジェフベゾスなどのお話",
+        "author": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY"
+      },
+      {
+        "type": "YouTubePlayList",
+        "id": "PLH_zSqoO_g_4-JjBNXhSlpsNpFpg-bI68",
+        "title": "暗号資産（基礎知識）",
+        "description": "今や主流になりつつある暗号資産の基礎知識",
+        "author": "COIN CATSチャンネル"
+      },
+      {
+        "type": "YouTubePlayList",
+        "id": "PL4XUsOepp8PkFgKaTKsb0U_iYB5I80Oyp",
+        "title": "暗号資産",
+        "description": "暗号資産の歴史やブロックチェーンについて学べます",
+        "author": "中田敦彦のYouTube大学 - NAKATA UNIVERSITY"
       }
     ]
   }
