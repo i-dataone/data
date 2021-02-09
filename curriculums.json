@@ -37,7 +37,18 @@
         "description": "python機械学習の基礎処理を学びましょう。",
         "courses": [
             "introduction-to-numpy",
-            "introduction-to-pandas"
+            "introduction-to-pandas",
+            "keras-guide",
+            "tensorflow-guide"
+        ]
+    },
+    {
+        "id": "java",
+        "title": "Java",
+        "description": "汎用性の高いJavaを学びましょう。",
+        "courses": [
+            "PLEA5DDE2013DDD591",
+            "PLbms7WpwCB3By8T4-wk_t19mYKi8FxUPF"
         ]
     },
     {
@@ -51,6 +62,30 @@
             "vuex",
             "vue-router",
             "vue-ssr"
+        ]
+    },
+    {
+        "id": "react",
+        "title": "React",
+        "description": "UI(ユーザインタフェース)をつくるJavaScriptのライブラリです。",
+        "courses": [
+            "PLh6V6_7fbbo9HNwl5htJOIV48JUgwWQVS",
+            "React-main",
+            "React-advanced",
+            "React-hooks",
+            "React-testing",
+            "Redux-introduction",
+            "React-router"
+        ]
+    },
+    {
+        "id": "typeScript",
+        "title": "TypeScript",
+        "description": "JavaScriptを拡張した言語で、静的型付けをすることができる言語です。",
+        "courses": [
+            "PLkQpCfbvj0lylBox7BYe3qqOVDJgEM005",
+            "TypeScript-introduction",
+            "TypeScript-Advanced"
         ]
     },
     {
@@ -102,6 +137,34 @@
             "git-saru-introduction",
             "git-saru-hatten",
             "git-saru-pullrequest"
+        ]
+    },
+    {
+        "id": "vba",
+        "title": "VBA",
+        "description": "VBAを習得して、作業を効率化しましょう。",
+        "courses": [
+            "vbe-usage",
+            "vba-programing-basics",
+            "excel-functions-and-object",
+            "vba-intermediate",
+            "vba-added-later",
+            "excel-user-form-introduction",
+            "vba-class-introduction"
+        ]
+    },
+    {
+        "id": "algorithm",
+        "title": "アルゴリズム",
+        "description": "効率いいプログラムを作成するためにアルゴリズムを学びましょう。",
+        "courses": [
+            "sort-algorithm",
+            "search-algorithm",
+            "string-search-algorithm",
+            "compression-algorithm",
+            "encode-decode-algorithm",
+            "calculation-algorithm",
+            "game-puzzle-algorithm"
         ]
     }
 ]
