@@ -1056,14 +1056,6 @@
         ]
       },
       {
-        "type": "YouTubePlayList",
-        "id": "PL3nfHFjHVxFaf5EuHUXRMjT_DwPFH2-21",
-        "title": "Swift超入門〜初めての方も！",
-        "description": "Swiftで扱う文法を学ぶことができます。",
-        "author": "たけむらしんいち"
-        
-      },
-      {
         "type": "WebPages",
         "id": "Git　documentation",
         "title": "Git ドキュメント",
