@@ -1056,14 +1056,6 @@
         ]
       },
       {
-        "type": "YouTubePlayList",
-        "id": "PL3nfHFjHVxFaf5EuHUXRMjT_DwPFH2-21",
-        "title": "Swift超入門〜初めての方も！",
-        "description": "Swiftで扱う文法を学ぶことができます。",
-        "author": "たけむらしんいち"
-        
-      },
-      {
         "type": "WebPages",
         "id": "Git　documentation",
         "title": "Git ドキュメント",
@@ -2268,13 +2260,6 @@
         "title": "線形代数",
         "description": "線形代数が動画で学べます",
         "author": "予備校のノリで学ぶ「大学の数学・物理」"
-      },
-      {
-        "type": "YouTubePlayList",
-        "id": "PLlNAOVqfWaDkutwdBGIdusuqnpNJfzyTr",
-        "title": "2015年度 言語学概論a",
-        "description": "言語学が動画で学べます",
-        "author": "OCW Tsukuba"
       },
       {
         "type": "YouTubePlayList",
